@@ -1,62 +1,82 @@
 
-Deskripsi Proyek: Proyek ini adalah sebuah RESTful API yang dibangun menggunakan Node.js dan Express. API ini digunakan untuk [tuliskan deskripsi fungsionalitas proyek Anda di sini].
+Project Description: This project is a RESTful API built using Node.js and Express. This API is used for [write a description of your project's functionality here].
 
-## Instalasi
 
-Untuk menjalankan proyek ini di lokal Anda, Anda perlu mengikuti langkah-langkah berikut:
+## Installation
 
-1. Clone repositori ini:
+
+To run this project on your local, you need to follow these steps:
+
+
+1. Clone this repository:
+
 
    ```bash
    git clone https://github.com/username/repo.git
    ```
 
-2. Masuk ke direktori proyek:
+
+2. Go to the project directory:
+
 
    ```bash
-   cd belajar-nodejs-restful-api
+   cd learn-nodejs-restful-api
    ```
 
-3. Install dependensi:
+
+3. Install dependencies:
+
 
    ```bash
    npm install
    ```
 
-## Menjalankan Proyek
 
-Untuk menjalankan proyek, Anda dapat menggunakan perintah berikut:
+## Running the Project
+
+
+To run the project, you can use the following command:
+
 
 ```bash
 npm start
 ```
 
-Proyek ini akan berjalan di `http://localhost:3000`.
 
-## Struktur Direktori
+The project will run at `http://localhost:3000`.
 
-Berikut adalah struktur direktori proyek:
 
-- `src/` : Direktori utama proyek yang berisi kode sumber.
-- `tests/` : Direktori yang berisi pengujian (tests).
-- `node_modules/` : Direktori yang berisi dependensi proyek.
-- `package.json` : Berkas konfigurasi proyek.
+## Directory Structure
 
-## Dependensi
 
-Proyek ini menggunakan beberapa dependensi yang penting untuk berfungsinya proyek. Berikut adalah daftar dependensi utama:
+Here is the directory structure of the project:
 
-- `express`: Framework web untuk Node.js.
-- `joi`: Validasi data input.
-- `prisma`: ORM untuk database.
-- `winston`: Pustaka untuk logging.
-- `bcrypt`: Library untuk membantu Anda meng-hash kata sandi.
-- `supertest`: Unit test untuk express js
-- `path-to-regexp`: Pustaka di NPM yang digunakan untuk mengonversi pola jalur (path pattern) menjadi ekspresi reguler (regular expression) dalam JavaScript.
-- `uuid`: Pustaka di NPM yang digunakan untuk menghasilkan identifier yang unik secara universal
 
-Untuk melihat daftar lengkap dependensi proyek beserta versinya, Anda dapat merujuk ke berkas `package.json`.
+- `src/` : The main project directory containing the source code.
+- `tests/` : The directory that contains tests.
+- `node_modules/` : The directory that contains project dependencies.
+- `package.json` : Project configuration file.
 
-## Lisensi
 
-Proyek ini dilisensikan di bawah [nama lisensi]. Lihat berkas [LICENSE](LICENSE) untuk detail lebih lanjut.
+## Dependencies
+
+
+This project uses several dependencies that are essential for the proper functioning of the project. Here is a list of the main dependencies:
+
+
+- `express`: Web framework for Node.js.
+- `joi`: Input data validation.
+- `prisma`: ORM for databases.
+- `winston`: Library for logging.
+- `bcrypt`: Library to help you hash passwords.
+- `supertest`: Unit test for express js
+- `path-to-regexp`: A library in NPM used to convert path patterns into regular expressions in JavaScript.
+- `uuid`: A library in NPM used to generate universally unique identifiers.
+
+
+To see the full list of project dependencies and their versions, you can refer to the `package.json` file.
+
+
+## License
+
+
