@@ -1,5 +1,5 @@
 
-Project Description: This project is a RESTful API built using Node.js and Express. This API is used for [write a description of your project's functionality here].
+Project Description: This project is a RESTful API built using Node.js and Express. This API is used for kuroneko project
 
 
 ## Installation
