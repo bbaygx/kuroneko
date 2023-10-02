@@ -1,6 +1,6 @@
 # Kuroneko Project (Under Development)
 
-Project Kuroneko is an anime streaming project subtitle indonesia. The project is in an active development stage and is designed to [describe the main goal of your project]. This is a brief guide to get started with this project.
+Project Kuroneko is an Indonesian subtitled anime streaming project. The project is under active development and is designed for anime lovers. This is a quick guide to get started with the project.
 
 ## Prerequisites
 
